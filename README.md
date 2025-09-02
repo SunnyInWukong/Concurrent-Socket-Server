@@ -4,7 +4,7 @@
 This project implements a **multi-threaded concurrent client-server system in Java**.  
 The server listens on a port, accepts client requests, and spawns a **new thread for each request**, allowing multiple clients to be served simultaneously.  
 
-This design highlights the performance improvements and scalability benefits of concurrency compared to the [Iterative Socket Server](https://github.com/SunniyInWukong/Iterative_Socket_Server).
+This design highlights the performance improvements and scalability benefits of concurrency compared to the [Iterative Socket Server](https://github.com/SunnyInWukong/Iterative_Socket_Server).
 
 ---
 
